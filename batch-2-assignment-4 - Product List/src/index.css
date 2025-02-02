@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  td {
+    @apply p-0;
+  }
+
+  .container {
+    @apply px-4;
+  }
+
+  /* sort filter active color  */
+  .sort-active {
+    @apply bg-gray-100;
+  }
+}
+
+/* react-toastify color override  */
+:root {
+  --toastify-color-success: #0d9488;
+}
