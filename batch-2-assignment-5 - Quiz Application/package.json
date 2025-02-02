@@ -1,0 +1,45 @@
+{
+    "name": "quizzes",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "lint": "eslint .",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@alptugidin/react-circular-progress-bar": "^1.1.4",
+        "@tailwindcss/aspect-ratio": "^0.4.2",
+        "@tanstack/react-query": "^5.60.5",
+        "@tanstack/react-query-devtools": "^5.60.5",
+        "axios": "^1.7.7",
+        "clsx": "^2.1.1",
+        "framer-motion": "^11.11.17",
+        "motion": "^11.11.17",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "react-feather": "^2.0.10",
+        "react-helmet": "^6.1.0",
+        "react-hook-form": "^7.53.2",
+        "react-hot-toast": "^2.4.1",
+        "react-router-dom": "^6.28.0",
+        "tailwind-merge": "^2.5.4"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.13.0",
+        "@types/react": "^18.3.12",
+        "@types/react-dom": "^18.3.1",
+        "@vitejs/plugin-react-swc": "^3.5.0",
+        "autoprefixer": "^10.4.20",
+        "eslint": "^9.13.0",
+        "eslint-plugin-react": "^7.37.2",
+        "eslint-plugin-react-hooks": "^5.0.0",
+        "eslint-plugin-react-refresh": "^0.4.14",
+        "globals": "^15.11.0",
+        "postcss": "^8.4.47",
+        "tailwindcss": "^3.4.14",
+        "vite": "^5.4.10"
+    }
+}
