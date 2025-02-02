@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    /* Scrollbar for all elements */
+    ::-webkit-scrollbar {
+        width: 7px; /* scrollbar width */
+        height: 8px; /* scrollbar height (for horizontal scrolling) */
+    }
+
+    /* Track (background of the scrollbar) */
+    ::-webkit-scrollbar-track {
+        background: #f0f0f0; /* light grey */
+        border-radius: 10px; /* round corners */
+    }
+
+    /* Thumb (scrolling element) */
+    ::-webkit-scrollbar-thumb {
+        background: #888; /* dark grey */
+        border-radius: 10px; /* round corners */
+    }
+
+    /* Thumb Hover (when hovering over the scrollbar) */
+    ::-webkit-scrollbar-thumb:hover {
+        background: #555; /* darker grey */
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+    body {
+        font-family: "Inter", sans-serif;
+    }
+    h1,
+    h2,
+    h3 {
+        font-family: "Playfair Display", serif;
+    }
+}
+

@@ -1,0 +1,90 @@
+{
+    "mainMenuLinks": [
+        {
+            "id": "mml1",
+            "title": "Home",
+            "path": "/"
+        },
+        {
+            "id": "mml2",
+            "title": "Categories",
+            "path": "/categories"
+        },
+        {
+            "id": "mml3",
+            "title": "Latest Recipies",
+            "path": "/#latest-recipies"
+        },
+        {
+            "id": "mml4",
+            "title": "Hand Picked",
+            "path": "/#hand-picked"
+        }
+    ],
+    "footerQuickLinks": [
+        {
+            "id": "fql1",
+            "title": "About us",
+            "path": "/"
+        },
+        {
+            "id": "fql2",
+            "title": "Carrier",
+            "path": "#"
+        },
+        {
+            "id": "fql3",
+            "title": "Contact us",
+            "path": "#"
+        },
+        {
+            "id": "fql4",
+            "title": "Feedback",
+            "path": "#"
+        }
+    ],
+    "legalLinks": [
+        {
+            "id": "fll1",
+            "title": "Terms",
+            "path": "#"
+        },
+        {
+            "id": "fll2",
+            "title": "Conditions",
+            "path": "#"
+        },
+        {
+            "id": "fll3",
+            "title": "Cookies",
+            "path": "#"
+        },
+        {
+            "id": "fll4",
+            "title": "Copyright",
+            "path": "#"
+        }
+    ],
+    "socialLinks": [
+        {
+            "id": "fsl1",
+            "title": "Facebook",
+            "path": "#"
+        },
+        {
+            "id": "fsl2",
+            "title": "Twitter",
+            "path": "#"
+        },
+        {
+            "id": "fsl3",
+            "title": "Instagram",
+            "path": "#"
+        },
+        {
+            "id": "fsl4",
+            "title": "Youtube",
+            "path": "#"
+        }
+    ]
+}
