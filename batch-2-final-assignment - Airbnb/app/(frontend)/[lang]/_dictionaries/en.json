@@ -1,0 +1,181 @@
+{
+    "headers": {
+        "search": "Where to ?",
+        "manageHotel": "Manage Hotel",
+        "createHotel": "Create Hotel",
+        "bookings": "Bookings",
+        "logout": "Log Out",
+        "login": "login",
+        "signup": "Sign Up",
+        "help": "Help"
+    },
+    "hotel": {
+        "bedrooms": "Bedrooms",
+        "perNight": "Per Night",
+        "reviews": "Reviews",
+        "guests": "Guests",
+        "beds": "Beds",
+        "checkin": "Check-In",
+        "aboutTextHeader": "About this place",
+        "offerTextHeader": "What this place offers",
+        "checkout": "Check-Out",
+        "maximumGuestCapacity": "Maximum guest capacity",
+        "reserve": "Reserve",
+        "youCreatedThisHotel": "You created this hotel",
+        "clearDates": "Clear Dates",
+        "youWontCharged": "You won't Be charged yet",
+        "hostedBy": "Hosted By"
+    },
+    "checkout": {
+        "requestToBook": "Request to book",
+        "needToLoginText": "You need to log in to book this hotel",
+        "yourTrip": "Your Trip",
+        "dates": "Dates",
+        "edit": "Edit",
+        "update": "Update",
+        "payWithAmericanExpress": "Pay with American Express",
+        "cardNumber": "Card Number",
+        "expiration": "Expiration Date",
+        "cvv": "CVV",
+        "billingAddress": "Billing Address",
+        "street": "Street Number",
+        "apartment": "Apartment Number",
+        "city": "City",
+        "state": "State",
+        "zipCode": "ZIP Code",
+        "priceDetails": "Price Details",
+        "cleaningFee": "Cleaning Fee",
+        "serviceFee": "Service Fee",
+        "total": "Total",
+        "nights": "nights"
+
+    },
+    "success": {
+        "paymentSuccess": "Payment Successful!",
+        "bookingConfirmedMessage": "Your booking has been confirmed. Check your email for details.",
+        "reservationDetails": "Reservation Details",
+        "paymentSummary": "Payment Summary",
+        "totalPaid": "Total amount Paid",
+        "bookingId": "Booking ID",
+        "nextSteps": "Next Steps",
+        "checkEmail": "Check Your Email",
+        "messageYourHost": "Message Your Host",
+        "planYourTrip": "Plan Your Trip",
+        "downloadReceipt": "Download Receipt",
+        "sentConfirmationText": "We've sent your confirmation and trip details to your email address.",
+        "introduceYourselfText": "Introduce yourself and let them know your travel plans.",
+        "reviewHouseRulesText": "Review house rules and check-in instructions in your trip details",
+        "needHelp": "Need Help with Your Booking?",
+        "visitHelpCenter": "Visit Our Help Center"
+    },
+    "reviews": {
+        "reviews": "Reviews",
+        "noReviews": "No Reviews Available",
+        "writeAreview": "Write A review",
+        "tellUsYourExperience": "Tell us about you experience",
+        "howWasYourStay": "How was your stay",
+        "shareYourThougts": "Share your thoughts about the hotel...",
+        "submitReview": "Submit Review",
+        "updateReview": "Update Review",
+        "reviewYourStayAt": "Review your stay at"
+
+
+
+    },
+    "manageHotel": {
+        "manageHotels": "Manage Hotels",
+        "createHotel": "Create Hotel",
+        "noHotelFound": "No Property Found",
+        "notAddedYet": " You haven't added any Property yet.",
+        "downlaodReceipt": "Download Receipt"
+    },
+
+    "createUpdate": {
+        "propertyName": "Property Name",
+        "propertyLocation": "Property Location",
+        "priceInUsd": "Price in USD",
+        "availableRooms": "Available rooms",
+        "howManyGuestCanStay": "How many guests can stay?",
+        "howManyBedrooms": "How many bedrooms?",
+        "howManyBedsAvailable": "How many beds available?",
+        "cleaningFee": "Cleaning Fee",
+        "publish": "Publish",
+        "updateAndPublish": "Update and Publish",
+        "save": "Save",
+        "perNight": "Per Night",
+        "aboutTextHeader": "About this place",
+        "offerTextHeader": "What this place offers"
+    },
+
+    "myBookings": {
+        "myBookings": "My Bookings",
+        "viewTripDetails": "View Trip Details",
+        "bookingDate": "Booking Date",
+        "bookingId": "Booking ID"
+    },
+    "bookingDetails": {
+        "yourBookingAt": "Your Booking at",
+        "checkIn": "Check-in",
+        "checkOut": "Check-out",
+        "nightlyRate": "Nightly Rate",
+        "serviceFee": "Service Fee",
+        "total": "Total Amount",
+        "hostedBY": "Hosted By",
+        "guests": "Guests"
+    },
+    "loginRegister": {
+        "loginFormTitle": "Login to Hotel Booking",
+        "loginFormWelcomeText": "Welcome back! Let's get you signed in.",
+        "email": "Email",
+        "password": "Password",
+        "continue": "Continue",
+        "continueWithGoogle": "Continue with Google",
+        "dontHaveAnAccount": " Don't have an account?",
+        "signUp": "Sign Up",
+        "login": "Login",
+        "name": "Name",
+        "confirmPassword": "Confirm Password",
+        "alreadyHaveAnAccount": "Already Have an Account?",
+        "registerFormTitle": "Sign up to Hotel Booking",
+        "registerFormWelcomeText": "Welcome ! Let's get you signed up."
+
+    },
+    "footer": {
+        "copywrightText": "Copyright ©2025 Learn With Sumit. All rights reserved.",
+        "terms": "Terms and Conditions",
+        "privacy": "Privacy Policy",
+        "privacyChoice": "Privacy Choices"
+    },
+    "validations": {
+        "emailIsRequired": "Email is Required",
+        "invalidEmail": "Invalid email address",
+        "nameIsRequired": "Name is Required",
+        "passwordIsRequired": "Password field is required",
+        "passwordLength": "Password must be at least 6 characters long",
+        "passwordFormate": "Password must contain at least one uppercase letter, one lowercase letter,and one number",
+        "confirmPassword": "Confirm Password field is required",
+        "notMatchedPassword": "Confirm Password not matched",
+        "emailUsed": "This email already used",
+        "invalidCredentials": "Email or Password not matched",
+        "serverSideError": "Something went wrong ! please try again or refresh your page",
+        "enterCardNumber": "Please enter your card number",
+        "cardNumberDigit": "Please Enter a valid card number(must be 13 digits)",
+        "entercardExpiry": "Enter card expiry date",
+        "validExpiryDate": " Card expiry date must have to be (DD-MM-YYYY (12-12-2026)) this format",
+        "dateExpired": "This card has expired",
+        "cvvLength": "Enter valid CVV number (must be 3 digits)",
+        "enterCvv": "Enter CVV number",
+        "enterStreetAddress": "Please Enter street address",
+        "enterCity": "Please enter your city",
+        "enterState": "Please enter your state",
+        "enterZipCode": "Please ente your ZIP code",
+        "zipCodeFormate": "ZIP code must have to be (12345 or 12345-6789) this format"
+    },
+    "toast": {
+        "registerdSuccess": "Registration Success ! Redirecting to Login Page",
+        "reviewAdded": "You have successfully added you review",
+        "ReviewUpdated": "Review Updated"
+
+    }
+
+}

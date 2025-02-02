@@ -1,0 +1,179 @@
+{
+    "headers": {
+        "search": "অনুসন্ধান করুন",
+        "manageHotel": "হোটেল ম্যানেজ করুন",
+        "createHotel": "হোটেল তৈরি করুন",
+        "bookings": "বুকিংস",
+        "logout": "লগ আউট",
+        "login": "সাইন ইন",
+        "signup": "সাইন আপ",
+        "help": "সহায়তা"
+    },
+    "hotel": {
+        "bedrooms": "বেডরুম",
+        "perNight": "প্রতি রাত",
+        "reviews": "রিভিও",
+        "guests": "অতিথি",
+        "beds": "বিছানা",
+        "checkin": "চেক-ইন",
+        "aboutTextHeader": "এই প্লেস সম্পর্কে বিস্তারিত তথ্য",
+        "offerTextHeader": "এই প্লেস আরও যা যা অফার করে",
+        "checkout": "চেক-আউট",
+        "maximumGuestCapacity": "সর্বোচ্চ অতিথি ধারণ ক্ষমতা",
+        "reserve": "রিসার্ভ করুন",
+        "youCreatedThisHotel": "এই হোটেলটি আপনার তৈরি",
+        "clearDates": "তারিখ মুছে ফেলুন",
+        "youWontCharged": "এখনি আপনার কাছ থেকে কোনো চার্জ নেওয়া হবে না",
+        "hostedBy": "আয়োজক"
+
+    },
+    "checkout": {
+        "requestToBook": "বুক করার অনুরোধ",
+        "needToLoginText": "হোটেলটি বুক করার জন্য আপনাকে লগইন করতে হবে",
+        "yourTrip": "আপনার ভ্রমণ",
+        "dates": "তারিখ",
+        "edit": "পরিবর্তন করুন",
+        "update": "আপডেট করুন",
+        "payWithAmericanExpress": "আমেরিকান এক্সপ্রেস দিয়ে পেমেন্ট করুন",
+        "cardNumber": "কার্ড নম্বর",
+        "expiration": "মেয়াদউত্তীর্ণের তারিখ",
+        "cvv": "সিভিভি",
+        "billingAddress": "বিলিং এর ঠিকানা",
+        "street": "রোড নাম্বার",
+        "apartment": "অ্যাপার্টমেন্ট নাম্বার",
+        "city": "শহর",
+        "state": "রাজ্য",
+        "zipCode": "জিপ কোড",
+        "priceDetails": "মূল্য বিবরণ",
+        "cleaningFee": "ক্লিনিং ফি",
+        "serviceFee": "সার্ভিস চার্জ",
+        "total": "মোট",
+        "nights": "রাত্রি"
+    },
+    "success": {
+        "paymentSuccess": "পেমেন্ট সফল হয়েছে",
+        "bookingConfirmedMessage": "আপনার বুকিং নিশ্চিত হয়েছে । বিস্তারিত তথ্যের জন্য আপনার ইমেইল চেক করুন",
+        "reservationDetails": "রিসার্ভেসনের বিবরণ",
+        "paymentSummary": "পেমেন্টের সামারি",
+        "totalPaid": "মোট পরিশোধ",
+        "bookingId": "বুকিং আইডি",
+        "nextSteps": "পরবর্তী ধাপ",
+        "checkEmail": "আপনার ইমেইল চেক করুন",
+        "messageYourHost": "আপনার আয়োজককে মেসেজ পাঠান",
+        "planYourTrip": "আপনার ভ্রমণ পরিকল্পনা করুন",
+        "downloadReceipt": "রশিদ ডাউনলোড করুন",
+        "sentConfirmationText": "আপনার ইমেইলে আপনার ট্রিপ এবং আপনার কনফার্মেশনের বিস্তারিত তথ্য পাঠানো হয়েছে।",
+        "introduceYourselfText": "তাদেরকে আপনার পরিচয় দিন এবং আপনার ভ্রমণের বিস্তারিত জানান",
+        "reviewHouseRulesText": "তাদের চেক-ইন ইনসট্রাকশন চেক করুন আপনার তাদের নিয়মনীতিগুলো রিভিও করুন",
+        "needHelp": "বুকিং নিয়ে আপনার সহায়তা দরকার?",
+        "visitHelpCenter": "আমাদের সহায়তা পেজে ঘুরে আসেন",
+        "manageHotels": "হোটেল ম্যানেজ করুন"
+    },
+    "reviews": {
+        "reviews": "রিভিও",
+        "noReviews": "কোনো রিভিও নেই",
+        "writeAreview": "রিভিও যোগ করুন",
+        "tellUsYourExperience": "আপনার অভিজ্ঞতা সম্পর্কে আমাদের বলুন",
+        "howWasYourStay": "আপনার থাকা কেমন ছিল?",
+        "shareYourThougts": "হোটেল সম্পর্কে আপনার মতামত শেয়ার করুন...",
+        "submitReview": "রিভিও যুক্ত করুন",
+        "updateReview": "রিভিও আপডেট করুন",
+        "reviewYourStayAt": "আপনার অভিজ্ঞতায় রিভিও করুন"
+    },
+    "manageHotel": {
+        "manageHotels": "হোটেল ম্যানেজ করুন",
+        "createHotel": "হোটেল তৈরি করুন",
+        "noHotelFound": "কোন হোটেল খুঁজে পাওয়া যায়নি",
+        "notAddedYet": "কোন হোটেল খুঁজে পাওয়া যায়নি"
+    },
+    "createUpdate": {
+        "propertyName": "সম্পত্তির নাম",
+        "propertyLocation": "সম্পত্তির অবস্থান",
+        "priceInUsd": "মূল্য (USD)",
+        "availableRooms": "এভেইলেবল রুম সংখ্যা",
+        "howManyGuestsCanStay": "কতজন অতিথি থাকতে পারবেন?",
+        "howManyBedrooms": "কতগুলো বেডরুম?",
+        "howManyBedsAvailable": "কতগুলো বিছানা এভেইলেবল আছে?",
+        "cleaningFee": "পরিষ্কার করার ফি",
+        "publish": "পাবলিশ করুন",
+        "updateAndPublish": "আপডেট ও পাবলিশ করুন",
+        "save": "সেভ করুন",
+        "perNight": "প্রতি রাত",
+        "aboutTextHeader": "এই প্লেস সম্পর্কে বিস্তারিত তথ্য",
+        "offerTextHeader": "এই প্লেস আরও যা যা অফার করে"
+
+    },
+    "myBookings": {
+        "myBookings": "আমার বুকিংগুলো",
+        "viewTripDetails": "ভ্রমণের বিবরণ দেখুন",
+        "bookingDate": "বুকিংয়ের তারিখ",
+        "bookingId": "বুকিং আইডি",
+        "downlaodReceipt": "রশিদ ডাউনলোড করুন।"
+    },
+    "bookingDetails": {
+        "yourBookingAt": "আপনি বুকিং করেছেন",
+        "checkIn": "চেক-ইন",
+        "checkOut": "চেক-আউট",
+        "nightlyRate": "প্রতি রাতের ভাড়া",
+        "serviceFee": "সার্ভিস চার্জ",
+        "total": "মোট পরিশোধ",
+        "hostedBY": "আয়োজক",
+        "guests": "অতিথি"
+    },
+    "loginRegister": {
+        "loginFormTitle": "Hotel Booking এ লগইন করুন",
+        "loginFormWelcomeText": "স্বাগতম, চলুন লগইন করা যাক",
+        "email": "ইমেইল",
+        "password": "পাসওয়ার্ড",
+        "continue": "চালিয়ে যান",
+        "continueWithGoogle": "গুগল দিয়ে চালিয়ে যান",
+        "dontHaveAnAccount": "অ্যাকাউন্ট নেই?",
+        "signUp": "সাইন আপ",
+        "login": "লগইন",
+        "name": "নাম",
+        "confirmPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+        "alreadyHaveAnAccount": "ইতিমধ্যে একটি অ্যাকাউন্ট আছে?",
+        "registerFormTitle": "Hotel Booking এ রেজিস্ট্রেশন করুন",
+        "registerFormWelcomeText": "স্বাগতম, চলুন রেজিস্ট্রেশন করা যাক"
+    },
+
+    "validations": {
+        "emailIsRequired": "ইমেইল ফিল্ডটি প্রয়োজন",
+        "invalidEmail": "ইমেইল নাম্বারটি সঠিক নয়",
+        "nameIsRequired": "নাম ফিল্ডটি প্রয়োজন",
+        "passwordIsRequired": "পাসওয়ার্ড ফিল্ডটি প্রয়োজন",
+        "passwordLength": "পাসওয়ার্ড কমপক্ষে ৬ অক্ষরের হতে হবে",
+        "passwordFormate": "পাসওয়ার্ডে অন্তত একটি বড় হাতের অক্ষর, একটি ছোট হাতের অক্ষর এবং একটি সংখ্যা থাকতে হবে",
+        "confirmPassword": "পাসওয়ার্ড নিশ্চিত করার ফিল্ডটি প্রয়োজন",
+        "notMatchedPassword": "কনফার্ম পাসওয়ার্ডটি সঠিক নয়",
+        "emailUsed": "এই ইমেইলটি ইতিমধ্যে ব্যবহার করা হয়েছে",
+        "invalidCredentials": "ইমেইল বা পাসওয়ার্ড মিলছে না",
+        "serverSideError": "কিছু ভুল হয়েছে! দয়া করে আবার চেষ্টা করুন বা পৃষ্ঠাটি রিফ্রেশ করুন",
+        "enterCardNumber": "কার্ড নাম্বার এড করতে হবে",
+        "cardNumberDigit": " ভ্যালিড কার্ড নাম্বার দিন (তেরো ডিজিটের হতে হবে) ",
+        "entercardExpiry": "কার্ড মেয়াদউত্তির্নের তারিখ দিন",
+        "validExpiryDate": "কার্ড মেয়াদউত্তির্নের তারিখ (DD-MM-YYYY (12-12-2026)) এই ফরমেটে এড করুন",
+        "dateExpired": "কার্ডটি মেয়াদউত্তির্ন হয়ে গিয়েছে",
+        "cvvLength": "ভ্যালিড সিভিভি নাম্বার এড করুন (তিন ডিজিটের হতে হবে)",
+        "enterCvv": "সিভিভি নাম্বার দিতে হবে",
+        "enterStreetAddress": "দয়া করে রাস্তার নাম্বার দিন",
+        "enterCity": "সিটি এড করুন",
+        "enterState": "রাজ্য এড করুন",
+        "enterZipCode": "জিপকোড এড করুন",
+        "zipCodeFormate": " জিপকোড অবশ্যই (12345 অথবা 12345-6789) এই ফরমেটে হতে হবে"
+
+    },
+    "toast": {
+        "registerdSuccess": "রেজিস্ট্রেশন সফল! লগইন পৃষ্ঠায় নিয়ে যাওয়া হচ্ছে",
+        "reviewAdded": "আপনার রিভিওটি সফলভাবে যুক্ত করা হয়েছে",
+        "ReviewUpdated": "রিভিও আপডেট করা হয়েছে"
+    },
+
+    "footer": {
+        "copywrightText": "কপিরাইট ©2025 লার্ন উইথ সুমিত। সর্বস্বত্ব সংরক্ষিত।",
+        "terms": "শর্তাবলী",
+        "privacy": "গোপনীয়তা",
+        "privacyChoice": "গোপনীয়তার পছন্দ"
+    }
+
+}

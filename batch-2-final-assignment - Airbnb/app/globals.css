@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    button:disabled {
+        @apply pointer-events-none opacity-50;
+    }
+
+    .darkclass {
+        @apply dark:bg-gray-900/50 dark:border-gray-700 dark:text-white backdrop-blur-2xl;
+    }
+    .darkTextSecondary {
+        @apply dark:text-gray-400;
+    }
+}
